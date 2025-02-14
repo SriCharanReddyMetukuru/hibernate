@@ -9,7 +9,7 @@
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>6.2.0.Final</version>
-        </dependency>
+         </dependency>
 
         <!-- JPA API -->
         <dependency>

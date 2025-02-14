@@ -11,6 +11,7 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 public class ManageEmployee {
+	
    private static SessionFactory factory; 
    public static void main(String[] args) {
       

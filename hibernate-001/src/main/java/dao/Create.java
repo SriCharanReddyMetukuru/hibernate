@@ -13,6 +13,7 @@ public class Create {
             SessionFactory sessionFactory
                 = SessionFactoryProvider
                       .provideSessionFactory();
+            
             Session session = sessionFactory.openSession();
             Transaction t = session.beginTransaction();
 
